@@ -1,0 +1,14 @@
+{
+  "name": "siskel",
+  "private": true,
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.1",
+    "underscore": "~1.7.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "sinon": "^7.3.0"
+  }
+}
